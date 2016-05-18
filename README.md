@@ -12,6 +12,6 @@ If you have an mbtiles sqlite database of mapbox vector tiles, that is, protobuf
 
 2. From the `tiles` folder run:
 
-    python httpd.py <port-number>
+    `python simple_http_server.py <port-number>`
 
 
